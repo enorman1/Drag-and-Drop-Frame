@@ -1,5 +1,7 @@
 # Drag And Drop Frame
 
+![window_screenshot](./main_window.png)
+
 Exemple d'utilisation du **Glisser/Déposer (Drag & Drop)** en Java avec Swing.
 
 Cette application affiche une fenêtre permettant à l'utilisateur de déposer un ou plusieurs fichiers. Les chemins complets des fichiers déposés sont ensuite récupérés et affichés dans la console.
